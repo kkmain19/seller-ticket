@@ -1,0 +1,16 @@
+.status-paid { color: green; }
+.status-pending { color: orange; }
+.status-visited { color: blue; }
+.status-cancel { color: red; }
+
+#barcodeContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#barcode {
+    width: 60%;
+    max-width: 60%; /* ปรับความกว้างตามที่คุณต้องการ */
+    height: auto;
+}

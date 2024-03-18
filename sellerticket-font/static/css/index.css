@@ -1,0 +1,23 @@
+.tbl-container {
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  
+  .bg-red {
+    background-color: red;
+    color: white;
+  }
+  
+  .bdr {
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .datepicker{
+    float: left;
+  }
+
+  .carousel-inner img {
+    filter: brightness(0.7);
+  }
+
+  

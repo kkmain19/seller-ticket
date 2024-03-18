@@ -1,0 +1,11 @@
+*{
+    font-family: "IBM Plex Sans Thai", sans-serif;
+}
+
+#logo {
+    font-family: "Noto Serif", serif;
+}
+
+a:hover{
+    color: yellow;
+}
